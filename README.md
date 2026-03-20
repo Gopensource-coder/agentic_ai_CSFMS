@@ -127,4 +127,4 @@ The LLM-OWA framework was tested against 33 extended benchmark instances (CSFMS1
 
 * **Solution Quality**: Achieved a 3.03% average value improvement over baselines, dominating on Hypervolume (HV), Inverted Generational Distance (IGD), and Spacing (SP) metrics.
 
-* **Rescheduling Stability**: Demonstrated highly consistent dynamic responses under state failures, task-time delays, and emergency orders, achieving a 0.9146 Decision Consistency Index (DCI) and a 0.9496 Explainability Score (ES).
+* **Rescheduling Stability**: Demonstrated highly consistent dynamic responses under state failures, task-time delays, and emergency orders, achieving a 0.9146 Decision Consistency Index (DCI) and a 0.9496 Interpretability Score (InS).
